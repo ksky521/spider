@@ -1,0 +1,3 @@
+node_modules/*
+works/newgd/node_modules/*
+works/newgd/temp-cache.json
